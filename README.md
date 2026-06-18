@@ -19,8 +19,6 @@ The objective is to compare valid one-stop tyre strategies and identify the opti
 ## Tools
 
 - MATLAB
-- Data visualization
-- Motorsport performance analysis
 
 ## Outputs
 
